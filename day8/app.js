@@ -5,4 +5,4 @@ friends.map(name => console.log(name))
 
 for(i = 0; i <=friends.length, i++) {
     console.log(friends[i]);
-    } 
+    }
